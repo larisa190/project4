@@ -42,5 +42,31 @@ nav a {
     border-radius: 7px ;
     background-color: rgb(175, 238, 238);
 }
-
-
+.fireworks{
+    background-color: rgb(175, 238, 238);
+    border: 3px solid rgb(175, 238, 238);
+    border-radius: 12px;
+    margin: 3px;
+    padding: 3px;
+}
+h2{
+    color: rgb(95, 158, 160);
+}
+.pimpa{
+    border: 1px solid aqua;
+    border-radius: 12px;
+}
+.pirka{
+    color: rgb(175, 238, 238);
+    border: 2px solid rgb(95, 158, 160);
+    margin: 1px;
+    text-decoration: none;
+    padding: 7px;
+}
+.iropka{
+    border: 3px solid rgb(95, 158, 160);
+    margin: 1px;
+    padding: 7px;
+    text-decoration: none;
+    color: aqua;
+}
