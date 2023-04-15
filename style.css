@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border:5px solid rgb(95, 158, 160); 
+    border-radius:10px;
+    padding: 5px;
+}
+header a {
+    text-decoration: none;
+}
+.melnik {
+    background-color: rgb(95, 158, 160);
+    border:3px solid rgb(95, 158, 160); 
+    border-radius:8px;
+    color:white;
+}
+nav a{
+    color:black;
+}
+h1 {
+    text-align: center;
+    border: 2px solid rgb(95, 158, 160);
+    border-radius: 12px;
+    font-size:24px;
+    background-color: rgb(175, 238, 238);
+    color: white;
+}
+footer p{
+    border:7px solid rgb(175, 238, 238);
+    background-color: white;
+    margin: 0px;
+}
+nav{
+    border: 1px solid rgb(95, 158, 160);
+    margin: 10px;
+    border-radius: 5px;
+}
+nav a {
+    margin: 25px;
+    border: 1px solid rgb(175, 238, 238) ;
+    border-radius: 7px ;
+    background-color: rgb(175, 238, 238);
+}
+
+
